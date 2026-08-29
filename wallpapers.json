@@ -1,0 +1,44 @@
+{
+  "categories": [
+    {
+      "id": "animals",
+      "name": "Animals",
+      "wallpapers": [
+        { "id": "animals_1", "imageUrl": "https://picsum.photos/seed/cutewall-animals-1/400/700" },
+        { "id": "animals_2", "imageUrl": "https://picsum.photos/seed/cutewall-animals-2/400/700" },
+        { "id": "animals_3", "imageUrl": "https://picsum.photos/seed/cutewall-animals-3/400/700" },
+        { "id": "animals_4", "imageUrl": "https://picsum.photos/seed/cutewall-animals-4/400/700" }
+      ]
+    },
+    {
+      "id": "pastel",
+      "name": "Pastel",
+      "wallpapers": [
+        { "id": "pastel_1", "imageUrl": "https://picsum.photos/seed/cutewall-Pastel-1/400/700" },
+        { "id": "pastel_2", "imageUrl": "https://picsum.photos/seed/cutewall-Pastel-2/400/700" },
+        { "id": "pastel_3", "imageUrl": "https://picsum.photos/seed/cutewall-Pastel-3/400/700" },
+        { "id": "pastel_4", "imageUrl": "https://picsum.photos/seed/cutewall-Pastel-4/400/700" }
+      ]
+    },
+    {
+      "id": "kawaii",
+      "name": "Kawaii",
+      "wallpapers": [
+        { "id": "kawaii_1", "imageUrl": "https://picsum.photos/seed/cutewall-kawaii-1/400/700" },
+        { "id": "kawaii_2", "imageUrl": "https://picsum.photos/seed/cutewall-kawaii-2/400/700" },
+        { "id": "kawaii_3", "imageUrl": "https://picsum.photos/seed/cutewall-kawaii-3/400/700" },
+        { "id": "kawaii_4", "imageUrl": "https://picsum.photos/seed/cutewall-kawaii-4/400/700" }
+      ]
+    },
+    {
+      "id": "nature",
+      "name": "Nature",
+      "wallpapers": [
+        { "id": "nature_1", "imageUrl": "https://picsum.photos/seed/cutewall-nature-1/400/700" },
+        { "id": "nature_2", "imageUrl": "https://picsum.photos/seed/cutewall-nature-2/400/700" },
+        { "id": "nature_3", "imageUrl": "https://picsum.photos/seed/cutewall-nature-3/400/700" },
+        { "id": "nature_4", "imageUrl": "https://picsum.photos/seed/cutewall-nature-4/400/700" }
+      ]
+    }
+  ]
+}
