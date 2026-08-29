@@ -42,7 +42,7 @@
       "name": "Kawaii",
       "wallpapers": [
         { "id": "kawaii_1", "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/1_.png" },
-        { "id": "kawaii_2", "imageUrl": "https://picsum.photos/seed/cutewall-kawaii-2/400/700" },
+        { "id": "kawaii_2", "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/2_.png" },
         { "id": "kawaii_3", "imageUrl": "https://picsum.photos/seed/cutewall-kawaii-3/400/700" },
         { "id": "kawaii_4", "imageUrl": "https://picsum.photos/seed/cutewall-kawaii-4/400/700" },
         { "id": "kawaii_5", "imageUrl": "https://picsum.photos/seed/cutewall-kawaii-5/400/700" },
