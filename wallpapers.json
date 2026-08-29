@@ -2,8 +2,7 @@
   "heroImages": [
     { "id": "hero_1", "heroImageUrl": "https://picsum.photos/seed/cutewall-hero-1/900/1200" },
     { "id": "hero_2", "heroImageUrl": "https://picsum.photos/seed/cutewall-hero-2/900/1200" },
-    { "id": "hero_3", "heroImageUrl": "https://picsum.photos/seed/cutewall-hero-3/900/1200" },
-    { "id": "hero_4", "heroImageUrl": "https://picsum.photos/seed/cutewall-hero-4/900/1200" }
+    { "id": "hero_3", "heroImageUrl": "https://picsum.photos/seed/cutewall-hero-3/900/1200" }
   ],
   "categories": [
     {
@@ -13,7 +12,13 @@
         { "id": "animals_1", "imageUrl": "https://picsum.photos/seed/cutewall-animals-1/400/700" },
         { "id": "animals_2", "imageUrl": "https://picsum.photos/seed/cutewall-animals-2/400/700" },
         { "id": "animals_3", "imageUrl": "https://picsum.photos/seed/cutewall-animals-3/400/700" },
-        { "id": "animals_4", "imageUrl": "https://picsum.photos/seed/cutewall-animals-4/400/700" }
+        { "id": "animals_4", "imageUrl": "https://picsum.photos/seed/cutewall-animals-4/400/700" },
+        { "id": "animals_5", "imageUrl": "https://picsum.photos/seed/cutewall-animals-5/400/700" },
+        { "id": "animals_6", "imageUrl": "https://picsum.photos/seed/cutewall-animals-6/400/700" },
+        { "id": "animals_7", "imageUrl": "https://picsum.photos/seed/cutewall-animals-7/400/700" },
+        { "id": "animals_8", "imageUrl": "https://picsum.photos/seed/cutewall-animals-8/400/700" },
+        { "id": "animals_9", "imageUrl": "https://picsum.photos/seed/cutewall-animals-9/400/700" },
+        { "id": "animals_10", "imageUrl": "https://picsum.photos/seed/cutewall-animals-10/400/700" }
       ]
     },
     {
@@ -23,7 +28,13 @@
         { "id": "pastel_1", "imageUrl": "https://picsum.photos/seed/cutewall-Pastel-1/400/700" },
         { "id": "pastel_2", "imageUrl": "https://picsum.photos/seed/cutewall-Pastel-2/400/700" },
         { "id": "pastel_3", "imageUrl": "https://picsum.photos/seed/cutewall-Pastel-3/400/700" },
-        { "id": "pastel_4", "imageUrl": "https://picsum.photos/seed/cutewall-Pastel-4/400/700" }
+        { "id": "pastel_4", "imageUrl": "https://picsum.photos/seed/cutewall-Pastel-4/400/700" },
+        { "id": "pastel_5", "imageUrl": "https://picsum.photos/seed/cutewall-Pastel-5/400/700" },
+        { "id": "pastel_6", "imageUrl": "https://picsum.photos/seed/cutewall-Pastel-6/400/700" },
+        { "id": "pastel_7", "imageUrl": "https://picsum.photos/seed/cutewall-Pastel-7/400/700" },
+        { "id": "pastel_8", "imageUrl": "https://picsum.photos/seed/cutewall-Pastel-8/400/700" }
+        { "id": "pastel_9", "imageUrl": "https://picsum.photos/seed/cutewall-Pastel-9/400/700" },
+        { "id": "pastel_10", "imageUrl": "https://picsum.photos/seed/cutewall-Pastel-10/400/700" }
       ]
     },
     {
@@ -33,7 +44,13 @@
         { "id": "kawaii_1", "imageUrl": "https://picsum.photos/seed/cutewall-kawaii-1/400/700" },
         { "id": "kawaii_2", "imageUrl": "https://picsum.photos/seed/cutewall-kawaii-2/400/700" },
         { "id": "kawaii_3", "imageUrl": "https://picsum.photos/seed/cutewall-kawaii-3/400/700" },
-        { "id": "kawaii_4", "imageUrl": "https://picsum.photos/seed/cutewall-kawaii-4/400/700" }
+        { "id": "kawaii_4", "imageUrl": "https://picsum.photos/seed/cutewall-kawaii-4/400/700" },
+        { "id": "kawaii_5", "imageUrl": "https://picsum.photos/seed/cutewall-kawaii-5/400/700" },
+        { "id": "kawaii_6", "imageUrl": "https://picsum.photos/seed/cutewall-kawaii-6/400/700" },
+        { "id": "kawaii_7", "imageUrl": "https://picsum.photos/seed/cutewall-kawaii-7/400/700" },
+        { "id": "kawaii_8", "imageUrl": "https://picsum.photos/seed/cutewall-kawaii-8/400/700" },
+        { "id": "kawaii_9", "imageUrl": "https://picsum.photos/seed/cutewall-kawaii-9/400/700" },
+        { "id": "kawaii_10", "imageUrl": "https://picsum.photos/seed/cutewall-kawaii-10/400/700" }
       ]
     },
     {
@@ -43,7 +60,13 @@
         { "id": "nature_1", "imageUrl": "https://picsum.photos/seed/cutewall-nature-1/400/700" },
         { "id": "nature_2", "imageUrl": "https://picsum.photos/seed/cutewall-nature-2/400/700" },
         { "id": "nature_3", "imageUrl": "https://picsum.photos/seed/cutewall-nature-3/400/700" },
-        { "id": "nature_4", "imageUrl": "https://picsum.photos/seed/cutewall-nature-4/400/700" }
+        { "id": "nature_4", "imageUrl": "https://picsum.photos/seed/cutewall-nature-4/400/700" },
+        { "id": "nature_5", "imageUrl": "https://picsum.photos/seed/cutewall-nature-5/400/700" },
+        { "id": "nature_6", "imageUrl": "https://picsum.photos/seed/cutewall-nature-6/400/700" },
+        { "id": "nature_7", "imageUrl": "https://picsum.photos/seed/cutewall-nature-7/400/700" },
+        { "id": "nature_8", "imageUrl": "https://picsum.photos/seed/cutewall-nature-8/400/700" },
+        { "id": "nature_9", "imageUrl": "https://picsum.photos/seed/cutewall-nature-9/400/700" },
+        { "id": "nature_10", "imageUrl": "https://picsum.photos/seed/cutewall-nature-10/400/700" }
       ]
     }
   ]
