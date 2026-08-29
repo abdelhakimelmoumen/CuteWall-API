@@ -1,8 +1,8 @@
 {
   "heroImages": [
     { "id": "hero_1", "heroImageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/hero/1_.png" },
-    { "id": "hero_2", "heroImageUrl": "https://picsum.photos/seed/cutewall-hero-2/900/1200" },
-    { "id": "hero_3", "heroImageUrl": "https://picsum.photos/seed/cutewall-hero-3/900/1200" }
+    { "id": "hero_2", "heroImageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/hero/2_.png" },
+    { "id": "hero_3", "heroImageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/hero/3_.png" }
   ],
   "categories": [
     {
