@@ -1,72 +1,201 @@
 {
   "heroImages": [
-    { "id": "hero_1", "heroImageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/hero/1_.png" },
-    { "id": "hero_2", "heroImageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/hero/2_.png" },
-    { "id": "hero_3", "heroImageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/hero/3_.png" }
+    {
+      "id": "hero_1",
+      "heroImageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/hero/1_.png"
+    },
+    {
+      "id": "hero_2",
+      "heroImageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/hero/2_.png"
+    },
+    {
+      "id": "hero_3",
+      "heroImageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/hero/3_.png"
+    }
   ],
   "categories": [
     {
       "id": "animals",
       "name": "Animals",
       "wallpapers": [
-        { "id": "animals_1", "imageUrl": "https://picsum.photos/seed/cutewall-animals-1/400/700" },
-        { "id": "animals_2", "imageUrl": "https://picsum.photos/seed/cutewall-animals-2/400/700" },
-        { "id": "animals_3", "imageUrl": "https://picsum.photos/seed/cutewall-animals-3/400/700" },
-        { "id": "animals_4", "imageUrl": "https://picsum.photos/seed/cutewall-animals-4/400/700" },
-        { "id": "animals_5", "imageUrl": "https://picsum.photos/seed/cutewall-animals-5/400/700" },
-        { "id": "animals_6", "imageUrl": "https://picsum.photos/seed/cutewall-animals-6/400/700" },
-        { "id": "animals_7", "imageUrl": "https://picsum.photos/seed/cutewall-animals-7/400/700" },
-        { "id": "animals_8", "imageUrl": "https://picsum.photos/seed/cutewall-animals-8/400/700" },
-        { "id": "animals_9", "imageUrl": "https://picsum.photos/seed/cutewall-animals-9/400/700" },
-        { "id": "animals_10", "imageUrl": "https://picsum.photos/seed/cutewall-animals-10/400/700" }
+        {
+          "id": "animals_1",
+          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/1_.png"
+        },
+        {
+          "id": "animals_2",
+          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/2_.png"
+        },
+        {
+          "id": "animals_3",
+          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/3_.png"
+        },
+        {
+          "id": "animals_4",
+          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/4_.png"
+        },
+        {
+          "id": "animals_5",
+          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/5_.png"
+        },
+        {
+          "id": "animals_6",
+          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/6_.png"
+        },
+        {
+          "id": "animals_7",
+          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/7_.png"
+        },
+        {
+          "id": "animals_8",
+          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/8_.png"
+        },
+        {
+          "id": "animals_9",
+          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/9_.png"
+        },
+        {
+          "id": "animals_10",
+          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/10_.png"
+        }
       ]
     },
     {
       "id": "pastel",
       "name": "Pastel",
       "wallpapers": [
-        { "id": "pastel_1", "imageUrl": "https://picsum.photos/seed/cutewall-Pastel-1/400/700" },
-        { "id": "pastel_2", "imageUrl": "https://picsum.photos/seed/cutewall-Pastel-2/400/700" },
-        { "id": "pastel_3", "imageUrl": "https://picsum.photos/seed/cutewall-Pastel-3/400/700" },
-        { "id": "pastel_4", "imageUrl": "https://picsum.photos/seed/cutewall-Pastel-4/400/700" },
-        { "id": "pastel_5", "imageUrl": "https://picsum.photos/seed/cutewall-Pastel-5/400/700" },
-        { "id": "pastel_6", "imageUrl": "https://picsum.photos/seed/cutewall-Pastel-6/400/700" },
-        { "id": "pastel_7", "imageUrl": "https://picsum.photos/seed/cutewall-Pastel-7/400/700" },
-        { "id": "pastel_8", "imageUrl": "https://picsum.photos/seed/cutewall-Pastel-8/400/700" },
-        { "id": "pastel_9", "imageUrl": "https://picsum.photos/seed/cutewall-Pastel-9/400/700" },
-        { "id": "pastel_10", "imageUrl": "https://picsum.photos/seed/cutewall-Pastel-10/400/700" }
+        {
+          "id": "pastel_1",
+          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/1_.png"
+        },
+        {
+          "id": "pastel_2",
+          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/2_.png"
+        },
+        {
+          "id": "pastel_3",
+          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/3_.png"
+        },
+        {
+          "id": "pastel_4",
+          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/4_.png"
+        },
+        {
+          "id": "pastel_5",
+          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/5_.png"
+        },
+        {
+          "id": "pastel_6",
+          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/6_.png"
+        },
+        {
+          "id": "pastel_7",
+          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/7_.png"
+        },
+        {
+          "id": "pastel_8",
+          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/8_.png"
+        },
+        {
+          "id": "pastel_9",
+          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/9_.png"
+        },
+        {
+          "id": "pastel_10",
+          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/10_.png"
+        }
       ]
     },
     {
       "id": "kawaii",
       "name": "Kawaii",
       "wallpapers": [
-        { "id": "kawaii_1", "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/1_.png" },
-        { "id": "kawaii_2", "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/2_.png" },
-        { "id": "kawaii_3", "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/3_.png" },
-        { "id": "kawaii_4", "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/4_.png" },
-        { "id": "kawaii_5", "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/5_.png" },
-        { "id": "kawaii_6", "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/6_.png" },
-        { "id": "kawaii_7", "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/7_.png" },
-        { "id": "kawaii_8", "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/8_.png" },
-        { "id": "kawaii_9", "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/9_.png" },
-        { "id": "kawaii_10", "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/10_.png" }
+        {
+          "id": "kawaii_1",
+          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/1_.png"
+        },
+        {
+          "id": "kawaii_2",
+          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/2_.png"
+        },
+        {
+          "id": "kawaii_3",
+          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/3_.png"
+        },
+        {
+          "id": "kawaii_4",
+          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/4_.png"
+        },
+        {
+          "id": "kawaii_5",
+          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/5_.png"
+        },
+        {
+          "id": "kawaii_6",
+          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/6_.png"
+        },
+        {
+          "id": "kawaii_7",
+          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/7_.png"
+        },
+        {
+          "id": "kawaii_8",
+          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/8_.png"
+        },
+        {
+          "id": "kawaii_9",
+          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/9_.png"
+        },
+        {
+          "id": "kawaii_10",
+          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/10_.png"
+        }
       ]
     },
     {
       "id": "nature",
       "name": "Nature",
       "wallpapers": [
-        { "id": "nature_1", "imageUrl": "https://picsum.photos/seed/cutewall-nature-1/400/700" },
-        { "id": "nature_2", "imageUrl": "https://picsum.photos/seed/cutewall-nature-2/400/700" },
-        { "id": "nature_3", "imageUrl": "https://picsum.photos/seed/cutewall-nature-3/400/700" },
-        { "id": "nature_4", "imageUrl": "https://picsum.photos/seed/cutewall-nature-4/400/700" },
-        { "id": "nature_5", "imageUrl": "https://picsum.photos/seed/cutewall-nature-5/400/700" },
-        { "id": "nature_6", "imageUrl": "https://picsum.photos/seed/cutewall-nature-6/400/700" },
-        { "id": "nature_7", "imageUrl": "https://picsum.photos/seed/cutewall-nature-7/400/700" },
-        { "id": "nature_8", "imageUrl": "https://picsum.photos/seed/cutewall-nature-8/400/700" },
-        { "id": "nature_9", "imageUrl": "https://picsum.photos/seed/cutewall-nature-9/400/700" },
-        { "id": "nature_10", "imageUrl": "https://picsum.photos/seed/cutewall-nature-10/400/700" }
+        {
+          "id": "nature_1",
+          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/1_.png"
+        },
+        {
+          "id": "nature_2",
+          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/2_.png"
+        },
+        {
+          "id": "nature_3",
+          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/3_.png"
+        },
+        {
+          "id": "nature_4",
+          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/4_.png"
+        },
+        {
+          "id": "nature_5",
+          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/5_.png"
+        },
+        {
+          "id": "nature_6",
+          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/6_.png"
+        },
+        {
+          "id": "nature_7",
+          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/7_.png"
+        },
+        {
+          "id": "nature_8",
+          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/8_.png"
+        },
+        {
+          "id": "nature_9",
+          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/9_.png"
+        },
+        {
+          "id": "nature_10",
+          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/10_.png"
+        }
       ]
     }
   ]
