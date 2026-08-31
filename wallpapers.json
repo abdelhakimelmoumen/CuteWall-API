@@ -82,7 +82,7 @@
       "id": "galaxy",
       "name": "Galaxy",
       "coverImageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/new-categories/new_home_categories_grid_cover/space.png",
-      "iconUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/new-categories/new_home_categories_grid_cover/space.png",
+      "iconUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/new-categories/new_explore_categories_icons/space.png",
       "wallpapers": [
         { "id": "galaxy_1", "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/1_.png", "tags": ["galaxy", "planets", "space", "stars"] },
         { "id": "galaxy_2", "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/2_.png", "tags": ["galaxy", "planets", "space", "stars"] },
