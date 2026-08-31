@@ -517,13 +517,13 @@
       ]
     },
     {
-      "id": "ikhan",
-      "name": "Ikhan",
+      "id": "copy",
+      "name": "Copy",
       "coverImageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/new-categories/new_home_categories_grid_cover/ocean.png",
       "iconUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/new-categories/new_explore_categories_icons/ocean.png",
       "wallpapers": [
         {
-          "id": "ikhan_1",
+          "id": "copy_1",
           "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/1_.png",
           "tags": [
             "blue",
@@ -534,7 +534,7 @@
           ]
         },
         {
-          "id": "ikhan_2",
+          "id": "copy_2",
           "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/2_.png",
           "tags": [
             "blue",
@@ -545,7 +545,7 @@
           ]
         },
         {
-          "id": "ikhan_3",
+          "id": "copy_3",
           "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/3_.png",
           "tags": [
             "blue",
@@ -556,7 +556,7 @@
           ]
         },
         {
-          "id": "ikhan_4",
+          "id": "copy_4",
           "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/4_.png",
           "tags": [
             "blue",
@@ -567,7 +567,7 @@
           ]
         },
         {
-          "id": "ikhan_5",
+          "id": "copy_5",
           "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/5_.png",
           "tags": [
             "blue",
