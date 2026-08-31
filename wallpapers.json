@@ -517,41 +517,63 @@
       ]
     },
     {
-      "id": "ocean",
-      "name": "Ocean",
-      "coverImageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/new-categories/new_home_categories_grid_cover/space.png",
-      "iconUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/new-categories/new_explore_categories_icons/space.png",
+      "id": "planet",
+      "name": "Planet",
+      "coverImageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/new-categories/new_home_categories_grid_cover/ocean.png",
+      "iconUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/new-categories/new_explore_categories_icons/ocean.png",
       "wallpapers": [
         {
-          "id": "ocean_1",
+          "id": "planet_1",
           "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/1_.png",
           "tags": [
             "blue",
             "calm",
-            "ocean",
-            "sea",
+            "planet",
+            "space",
             "water"
           ]
         },
         {
-          "id": "ocean_2",
+          "id": "planet_2",
           "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/2_.png",
           "tags": [
             "blue",
             "calm",
-            "ocean",
-            "sea",
+            "planet",
+            "space",
             "water"
           ]
         },
         {
-          "id": "ocean_3",
+          "id": "planet_3",
           "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/3_.png",
           "tags": [
             "blue",
             "calm",
-            "ocean",
-            "sea",
+            "planet",
+            "space",
+            "water"
+          ]
+        },
+        {
+          "id": "planet_4",
+          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/4_.png",
+          "tags": [
+            "blue",
+            "calm",
+            "planet",
+            "space",
+            "water"
+          ]
+        },
+        {
+          "id": "planet_5",
+          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/5_.png",
+          "tags": [
+            "blue",
+            "calm",
+            "planet",
+            "space",
             "water"
           ]
         }
