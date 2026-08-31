@@ -239,22 +239,22 @@
       ]
     },
     {
-      "id": "space",
-      "name": "Space",
+      "id": "galaxy",
+      "name": "Galaxy",
       "coverImageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/1_.png",
       "wallpapers": [
         {
-          "id": "space_1",
+          "id": "galaxy_1",
           "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/1_.png",
           "tags": ["galaxy", "planets", "space", "stars"]
         },
         {
-          "id": "space_2",
+          "id": "galaxy_2",
           "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/2_.png",
           "tags": ["galaxy", "planets", "space", "stars"]
         },
         {
-          "id": "space_3",
+          "id": "galaxy_3",
           "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/3_.png",
           "tags": ["galaxy", "planets", "space", "stars"]
         }
