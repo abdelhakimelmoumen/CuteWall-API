@@ -17,6 +17,7 @@
     {
       "id": "animals",
       "name": "Animals",
+      "iconUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/icons/animals_icon.png",
       "wallpapers": [
         {
           "id": "animals_1",
@@ -73,6 +74,7 @@
     {
       "id": "pastel",
       "name": "Pastel",
+      "iconUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/icons/pastel_icon.png",
       "wallpapers": [
         {
           "id": "pastel_1",
@@ -129,6 +131,7 @@
     {
       "id": "kawaii",
       "name": "Kawaii",
+      "iconUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/icons/kawaii_icon.png",
       "wallpapers": [
         {
           "id": "kawaii_1",
@@ -185,6 +188,7 @@
     {
       "id": "nature",
       "name": "Nature",
+      "iconUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/icons/nature_icon.png",
       "wallpapers": [
         {
           "id": "nature_1",
@@ -242,6 +246,7 @@
       "id": "space",
       "name": "Space",
       "coverImageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/1_.png",
+      "iconUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/icons/space_icon.png",
       "wallpapers": [
         {
           "id": "space_1",
