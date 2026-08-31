@@ -88,6 +88,19 @@
         { "id": "galaxy_2", "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/2_.png", "tags": ["galaxy", "planets", "space", "stars"] },
         { "id": "galaxy_3", "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/3_.png", "tags": ["galaxy", "planets", "space", "stars"] }
       ]
+    },
+    {
+      "id": "fantasy",
+      "name": "Fantasy",
+      "coverImageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/new-categories/new_home_categories_grid_cover/space.png",
+      "iconUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/new-categories/new_explore_categories_icons/space.png",
+      "wallpapers": [
+        { "id": "fantasy_1", "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/1_.png", "tags": ["dreamy", "fantasy", "magic", "mythical", "whimsical"] },
+        { "id": "fantasy_2", "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/2_.png", "tags": ["dreamy", "fantasy", "magic", "mythical", "whimsical"] },
+        { "id": "fantasy_3", "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/3_.png", "tags": ["dreamy", "fantasy", "magic", "mythical", "whimsical"] },
+        { "id": "fantasy_4", "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/4_.png", "tags": ["dreamy", "fantasy", "magic", "mythical", "whimsical"] },
+        { "id": "fantasy_5", "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/5_.png", "tags": ["dreamy", "fantasy", "magic", "mythical", "whimsical"] }
+      ]
     }
   ]
 }
