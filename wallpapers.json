@@ -1,574 +1,536 @@
 {
-  "heroImages": [
-    {
-      "id": "hero_1",
-      "heroImageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/hero/1_.png"
-    },
-    {
-      "id": "hero_2",
-      "heroImageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/hero/2_.png"
-    },
-    {
-      "id": "hero_3",
-      "heroImageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/hero/3_.png"
-    }
-  ],
-  "categories": [
-    {
-      "id": "animals",
-      "name": "Animals",
-      "wallpapers": [
-        {
-          "id": "animals_1",
-          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/1_.png",
-          "tags": [
-            "animals",
-            "cute",
-            "furry",
-            "kawaii",
-            "pets"
-          ]
-        },
-        {
-          "id": "animals_2",
-          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/2_.png",
-          "tags": [
-            "animals",
-            "cute",
-            "furry",
-            "kawaii",
-            "pets"
-          ]
-        },
-        {
-          "id": "animals_3",
-          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/3_.png",
-          "tags": [
-            "animals",
-            "cute",
-            "furry",
-            "kawaii",
-            "pets"
-          ]
-        },
-        {
-          "id": "animals_4",
-          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/4_.png",
-          "tags": [
-            "animals",
-            "cute",
-            "furry",
-            "kawaii",
-            "pets"
-          ]
-        },
-        {
-          "id": "animals_5",
-          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/5_.png",
-          "tags": [
-            "animals",
-            "cute",
-            "furry",
-            "kawaii",
-            "pets"
-          ]
-        },
-        {
-          "id": "animals_6",
-          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/6_.png",
-          "tags": [
-            "animals",
-            "cute",
-            "furry",
-            "kawaii",
-            "pets"
-          ]
-        },
-        {
-          "id": "animals_7",
-          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/7_.png",
-          "tags": [
-            "animals",
-            "cute",
-            "furry",
-            "kawaii",
-            "pets"
-          ]
-        },
-        {
-          "id": "animals_8",
-          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/8_.png",
-          "tags": [
-            "animals",
-            "cute",
-            "furry",
-            "kawaii",
-            "pets"
-          ]
-        },
-        {
-          "id": "animals_9",
-          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/9_.png",
-          "tags": [
-            "animals",
-            "cute",
-            "furry",
-            "kawaii",
-            "pets"
-          ]
-        },
-        {
-          "id": "animals_10",
-          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/10_.png",
-          "tags": [
-            "animals",
-            "cute",
-            "furry",
-            "kawaii",
-            "pets"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "pastel",
-      "name": "Pastel",
-      "wallpapers": [
-        {
-          "id": "pastel_1",
-          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/1_.png",
-          "tags": [
-            "aesthetic",
-            "minimal",
-            "pastel",
-            "pink",
-            "soft"
-          ]
-        },
-        {
-          "id": "pastel_2",
-          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/2_.png",
-          "tags": [
-            "aesthetic",
-            "minimal",
-            "pastel",
-            "pink",
-            "soft"
-          ]
-        },
-        {
-          "id": "pastel_3",
-          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/3_.png",
-          "tags": [
-            "aesthetic",
-            "minimal",
-            "pastel",
-            "pink",
-            "soft"
-          ]
-        },
-        {
-          "id": "pastel_4",
-          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/4_.png",
-          "tags": [
-            "aesthetic",
-            "minimal",
-            "pastel",
-            "pink",
-            "soft"
-          ]
-        },
-        {
-          "id": "pastel_5",
-          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/5_.png",
-          "tags": [
-            "aesthetic",
-            "minimal",
-            "pastel",
-            "pink",
-            "soft"
-          ]
-        },
-        {
-          "id": "pastel_6",
-          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/6_.png",
-          "tags": [
-            "aesthetic",
-            "minimal",
-            "pastel",
-            "pink",
-            "soft"
-          ]
-        },
-        {
-          "id": "pastel_7",
-          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/7_.png",
-          "tags": [
-            "aesthetic",
-            "minimal",
-            "pastel",
-            "pink",
-            "soft"
-          ]
-        },
-        {
-          "id": "pastel_8",
-          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/8_.png",
-          "tags": [
-            "aesthetic",
-            "minimal",
-            "pastel",
-            "pink",
-            "soft"
-          ]
-        },
-        {
-          "id": "pastel_9",
-          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/9_.png",
-          "tags": [
-            "aesthetic",
-            "minimal",
-            "pastel",
-            "pink",
-            "soft"
-          ]
-        },
-        {
-          "id": "pastel_10",
-          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/10_.png",
-          "tags": [
-            "aesthetic",
-            "minimal",
-            "pastel",
-            "pink",
-            "soft"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "kawaii",
-      "name": "Kawaii",
-      "wallpapers": [
-        {
-          "id": "kawaii_1",
-          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/1_.png",
-          "tags": [
-            "anime",
-            "cartoon",
-            "chibi",
-            "cute",
-            "kawaii"
-          ]
-        },
-        {
-          "id": "kawaii_2",
-          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/2_.png",
-          "tags": [
-            "anime",
-            "cartoon",
-            "chibi",
-            "cute",
-            "kawaii"
-          ]
-        },
-        {
-          "id": "kawaii_3",
-          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/3_.png",
-          "tags": [
-            "anime",
-            "cartoon",
-            "chibi",
-            "cute",
-            "kawaii"
-          ]
-        },
-        {
-          "id": "kawaii_4",
-          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/4_.png",
-          "tags": [
-            "anime",
-            "cartoon",
-            "chibi",
-            "cute",
-            "kawaii"
-          ]
-        },
-        {
-          "id": "kawaii_5",
-          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/5_.png",
-          "tags": [
-            "anime",
-            "cartoon",
-            "chibi",
-            "cute",
-            "kawaii"
-          ]
-        },
-        {
-          "id": "kawaii_6",
-          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/6_.png",
-          "tags": [
-            "anime",
-            "cartoon",
-            "chibi",
-            "cute",
-            "kawaii"
-          ]
-        },
-        {
-          "id": "kawaii_7",
-          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/7_.png",
-          "tags": [
-            "anime",
-            "cartoon",
-            "chibi",
-            "cute",
-            "kawaii"
-          ]
-        },
-        {
-          "id": "kawaii_8",
-          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/8_.png",
-          "tags": [
-            "anime",
-            "cartoon",
-            "chibi",
-            "cute",
-            "kawaii"
-          ]
-        },
-        {
-          "id": "kawaii_9",
-          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/9_.png",
-          "tags": [
-            "anime",
-            "cartoon",
-            "chibi",
-            "cute",
-            "kawaii"
-          ]
-        },
-        {
-          "id": "kawaii_10",
-          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/10_.png",
-          "tags": [
-            "anime",
-            "cartoon",
-            "chibi",
-            "cute",
-            "kawaii"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "nature",
-      "name": "Nature",
-      "wallpapers": [
-        {
-          "id": "nature_1",
-          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/1_.png",
-          "tags": [
-            "calm",
-            "landscape",
-            "nature",
-            "outdoors",
-            "scenery"
-          ]
-        },
-        {
-          "id": "nature_2",
-          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/2_.png",
-          "tags": [
-            "calm",
-            "landscape",
-            "nature",
-            "outdoors",
-            "scenery"
-          ]
-        },
-        {
-          "id": "nature_3",
-          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/3_.png",
-          "tags": [
-            "calm",
-            "landscape",
-            "nature",
-            "outdoors",
-            "scenery"
-          ]
-        },
-        {
-          "id": "nature_4",
-          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/4_.png",
-          "tags": [
-            "calm",
-            "landscape",
-            "nature",
-            "outdoors",
-            "scenery"
-          ]
-        },
-        {
-          "id": "nature_5",
-          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/5_.png",
-          "tags": [
-            "calm",
-            "landscape",
-            "nature",
-            "outdoors",
-            "scenery"
-          ]
-        },
-        {
-          "id": "nature_6",
-          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/6_.png",
-          "tags": [
-            "calm",
-            "landscape",
-            "nature",
-            "outdoors",
-            "scenery"
-          ]
-        },
-        {
-          "id": "nature_7",
-          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/7_.png",
-          "tags": [
-            "calm",
-            "landscape",
-            "nature",
-            "outdoors",
-            "scenery"
-          ]
-        },
-        {
-          "id": "nature_8",
-          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/8_.png",
-          "tags": [
-            "calm",
-            "landscape",
-            "nature",
-            "outdoors",
-            "scenery"
-          ]
-        },
-        {
-          "id": "nature_9",
-          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/9_.png",
-          "tags": [
-            "calm",
-            "landscape",
-            "nature",
-            "outdoors",
-            "scenery"
-          ]
-        },
-        {
-          "id": "nature_10",
-          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/10_.png",
-          "tags": [
-            "calm",
-            "landscape",
-            "nature",
-            "outdoors",
-            "scenery"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "galaxy",
-      "name": "Galaxy",
-      "coverImageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/new-categories/new_home_categories_grid_cover/space.png",
-      "iconUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/new-categories/new_explore_categories_icons/space.png",
-      "wallpapers": [
-        {
-          "id": "galaxy_1",
-          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/1_.png",
-          "tags": [
-            "galaxy",
-            "planets",
-            "space",
-            "stars"
-          ]
-        },
-        {
-          "id": "galaxy_2",
-          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/2_.png",
-          "tags": [
-            "galaxy",
-            "planets",
-            "space",
-            "stars"
-          ]
-        },
-        {
-          "id": "galaxy_3",
-          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/3_.png",
-          "tags": [
-            "galaxy",
-            "planets",
-            "space",
-            "stars"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "ocean",
-      "name": "Ocean",
-      "coverImageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/new-categories/new_home_categories_grid_cover/space.png",
-      "iconUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/new-categories/new_explore_categories_icons/space.png",
-      "wallpapers": [
-        {
-          "id": "ocean_1",
-          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/1_.png",
-          "tags": [
-            "blue",
-            "calm",
-            "ocean",
-            "sea",
-            "water"
-          ]
-        },
-        {
-          "id": "ocean_2",
-          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/2_.png",
-          "tags": [
-            "blue",
-            "calm",
-            "ocean",
-            "sea",
-            "water"
-          ]
-        },
-        {
-          "id": "ocean_3",
-          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/3_.png",
-          "tags": [
-            "blue",
-            "calm",
-            "ocean",
-            "sea",
-            "water"
-          ]
-        }
-      ]
-    }
-  ],
-  "notifications": {
-    "enabled": true,
-    "newCategory": {
-      "enabled": true,
-      "title": "New category added! 🎉",
-      "body": "Check out \"{name}\" — fresh wallpapers just for you!"
-    },
-    "newWallpapers": {
-      "enabled": true,
-      "title": "New wallpapers added! ✨",
-      "body": "{count} new wallpaper(s) added to \"{category}\""
-    }
-  }
+"heroImages": [
+{
+"id": "hero_1",
+"heroImageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/hero/1_.png"
+},
+{
+"id": "hero_2",
+"heroImageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/hero/2_.png"
+},
+{
+"id": "hero_3",
+"heroImageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/hero/3_.png"
+}
+],
+"categories": [
+{
+"id": "animals",
+"name": "Animals",
+"wallpapers": [
+{
+"id": "animals_1",
+"imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/1_.png",
+"tags": [
+"animals",
+"cute",
+"furry",
+"kawaii",
+"pets"
+]
+},
+{
+"id": "animals_2",
+"imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/2_.png",
+"tags": [
+"animals",
+"cute",
+"furry",
+"kawaii",
+"pets"
+]
+},
+{
+"id": "animals_3",
+"imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/3_.png",
+"tags": [
+"animals",
+"cute",
+"furry",
+"kawaii",
+"pets"
+]
+},
+{
+"id": "animals_4",
+"imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/4_.png",
+"tags": [
+"animals",
+"cute",
+"furry",
+"kawaii",
+"pets"
+]
+},
+{
+"id": "animals_5",
+"imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/5_.png",
+"tags": [
+"animals",
+"cute",
+"furry",
+"kawaii",
+"pets"
+]
+},
+{
+"id": "animals_6",
+"imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/6_.png",
+"tags": [
+"animals",
+"cute",
+"furry",
+"kawaii",
+"pets"
+]
+},
+{
+"id": "animals_7",
+"imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/7_.png",
+"tags": [
+"animals",
+"cute",
+"furry",
+"kawaii",
+"pets"
+]
+},
+{
+"id": "animals_8",
+"imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/8_.png",
+"tags": [
+"animals",
+"cute",
+"furry",
+"kawaii",
+"pets"
+]
+},
+{
+"id": "animals_9",
+"imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/9_.png",
+"tags": [
+"animals",
+"cute",
+"furry",
+"kawaii",
+"pets"
+]
+},
+{
+"id": "animals_10",
+"imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/10_.png",
+"tags": [
+"animals",
+"cute",
+"furry",
+"kawaii",
+"pets"
+]
+}
+]
+},
+{
+"id": "pastel",
+"name": "Pastel",
+"wallpapers": [
+{
+"id": "pastel_1",
+"imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/1_.png",
+"tags": [
+"aesthetic",
+"minimal",
+"pastel",
+"pink",
+"soft"
+]
+},
+{
+"id": "pastel_2",
+"imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/2_.png",
+"tags": [
+"aesthetic",
+"minimal",
+"pastel",
+"pink",
+"soft"
+]
+},
+{
+"id": "pastel_3",
+"imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/3_.png",
+"tags": [
+"aesthetic",
+"minimal",
+"pastel",
+"pink",
+"soft"
+]
+},
+{
+"id": "pastel_4",
+"imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/4_.png",
+"tags": [
+"aesthetic",
+"minimal",
+"pastel",
+"pink",
+"soft"
+]
+},
+{
+"id": "pastel_5",
+"imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/5_.png",
+"tags": [
+"aesthetic",
+"minimal",
+"pastel",
+"pink",
+"soft"
+]
+},
+{
+"id": "pastel_6",
+"imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/6_.png",
+"tags": [
+"aesthetic",
+"minimal",
+"pastel",
+"pink",
+"soft"
+]
+},
+{
+"id": "pastel_7",
+"imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/7_.png",
+"tags": [
+"aesthetic",
+"minimal",
+"pastel",
+"pink",
+"soft"
+]
+},
+{
+"id": "pastel_8",
+"imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/8_.png",
+"tags": [
+"aesthetic",
+"minimal",
+"pastel",
+"pink",
+"soft"
+]
+},
+{
+"id": "pastel_9",
+"imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/9_.png",
+"tags": [
+"aesthetic",
+"minimal",
+"pastel",
+"pink",
+"soft"
+]
+},
+{
+"id": "pastel_10",
+"imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/10_.png",
+"tags": [
+"aesthetic",
+"minimal",
+"pastel",
+"pink",
+"soft"
+]
+}
+]
+},
+{
+"id": "kawaii",
+"name": "Kawaii",
+"wallpapers": [
+{
+"id": "kawaii_1",
+"imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/1_.png",
+"tags": [
+"anime",
+"cartoon",
+"chibi",
+"cute",
+"kawaii"
+]
+},
+{
+"id": "kawaii_2",
+"imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/2_.png",
+"tags": [
+"anime",
+"cartoon",
+"chibi",
+"cute",
+"kawaii"
+]
+},
+{
+"id": "kawaii_3",
+"imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/3_.png",
+"tags": [
+"anime",
+"cartoon",
+"chibi",
+"cute",
+"kawaii"
+]
+},
+{
+"id": "kawaii_4",
+"imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/4_.png",
+"tags": [
+"anime",
+"cartoon",
+"chibi",
+"cute",
+"kawaii"
+]
+},
+{
+"id": "kawaii_5",
+"imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/5_.png",
+"tags": [
+"anime",
+"cartoon",
+"chibi",
+"cute",
+"kawaii"
+]
+},
+{
+"id": "kawaii_6",
+"imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/6_.png",
+"tags": [
+"anime",
+"cartoon",
+"chibi",
+"cute",
+"kawaii"
+]
+},
+{
+"id": "kawaii_7",
+"imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/7_.png",
+"tags": [
+"anime",
+"cartoon",
+"chibi",
+"cute",
+"kawaii"
+]
+},
+{
+"id": "kawaii_8",
+"imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/8_.png",
+"tags": [
+"anime",
+"cartoon",
+"chibi",
+"cute",
+"kawaii"
+]
+},
+{
+"id": "kawaii_9",
+"imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/9_.png",
+"tags": [
+"anime",
+"cartoon",
+"chibi",
+"cute",
+"kawaii"
+]
+},
+{
+"id": "kawaii_10",
+"imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/10_.png",
+"tags": [
+"anime",
+"cartoon",
+"chibi",
+"cute",
+"kawaii"
+]
+}
+]
+},
+{
+"id": "nature",
+"name": "Nature",
+"wallpapers": [
+{
+"id": "nature_1",
+"imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/1_.png",
+"tags": [
+"calm",
+"landscape",
+"nature",
+"outdoors",
+"scenery"
+]
+},
+{
+"id": "nature_2",
+"imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/2_.png",
+"tags": [
+"calm",
+"landscape",
+"nature",
+"outdoors",
+"scenery"
+]
+},
+{
+"id": "nature_3",
+"imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/3_.png",
+"tags": [
+"calm",
+"landscape",
+"nature",
+"outdoors",
+"scenery"
+]
+},
+{
+"id": "nature_4",
+"imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/4_.png",
+"tags": [
+"calm",
+"landscape",
+"nature",
+"outdoors",
+"scenery"
+]
+},
+{
+"id": "nature_5",
+"imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/5_.png",
+"tags": [
+"calm",
+"landscape",
+"nature",
+"outdoors",
+"scenery"
+]
+},
+{
+"id": "nature_6",
+"imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/6_.png",
+"tags": [
+"calm",
+"landscape",
+"nature",
+"outdoors",
+"scenery"
+]
+},
+{
+"id": "nature_7",
+"imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/7_.png",
+"tags": [
+"calm",
+"landscape",
+"nature",
+"outdoors",
+"scenery"
+]
+},
+{
+"id": "nature_8",
+"imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/8_.png",
+"tags": [
+"calm",
+"landscape",
+"nature",
+"outdoors",
+"scenery"
+]
+},
+{
+"id": "nature_9",
+"imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/9_.png",
+"tags": [
+"calm",
+"landscape",
+"nature",
+"outdoors",
+"scenery"
+]
+},
+{
+"id": "nature_10",
+"imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/10_.png",
+"tags": [
+"calm",
+"landscape",
+"nature",
+"outdoors",
+"scenery"
+]
+}
+]
+},
+{
+"id": "beauty",
+"name": "Beauty",
+"coverImageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/new-categories/new_home_categories_grid_cover/space.png",
+"iconUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/new-categories/new_explore_categories_icons/space.png",
+"wallpapers": [
+{
+"id": "beauty_1",
+"imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/1_.png",
+"tags": [
+"blue",
+"calm",
+"beauty",
+"sea",
+"water"
+]
+},
+{
+"id": "beauty_2",
+"imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/2_.png",
+"tags": [
+"blue",
+"calm",
+"beauty",
+"sea",
+"water"
+]
+},
+{
+"id": "beauty_3",
+"imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/3_.png",
+"tags": [
+"blue",
+"calm",
+"beauty",
+"sea",
+"water"
+]
+}
+]
+}
+],
+"notifications": {
+"enabled": true,
+"newCategory": {
+"enabled": true,
+"title": "New category added! 🎉",
+"body": "Check out "{name}" — fresh wallpapers just for you!"
+},
+"newWallpapers": {
+"enabled": true,
+"title": "New wallpapers added! ✨",
+"body": "{count} new wallpaper(s) added to "{category}""
+}
+}
 }
