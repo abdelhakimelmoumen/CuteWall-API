@@ -479,40 +479,78 @@
 ]
 },
 {
-"id": "beauty",
-"name": "Beauty",
+"id": "galaxy",
+"name": "Galaxy",
 "coverImageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/new-categories/new_home_categories_grid_cover/space.png",
 "iconUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/new-categories/new_explore_categories_icons/space.png",
 "wallpapers": [
 {
-"id": "beauty_1",
+"id": "galaxy_1",
+"imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/1_.png",
+"tags": [
+"galaxy",
+"planets",
+"space",
+"stars"
+]
+},
+{
+"id": "galaxy_2",
+"imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/2_.png",
+"tags": [
+"galaxy",
+"planets",
+"space",
+"stars"
+]
+},
+{
+"id": "galaxy_3",
+"imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/3_.png",
+"tags": [
+"galaxy",
+"planets",
+"space",
+"stars"
+]
+}
+]
+},
+{
+"id": "ocean",
+"name": "Ocean",
+"coverImageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/new-categories/new_home_categories_grid_cover/space.png",
+"iconUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/new-categories/new_explore_categories_icons/space.png",
+"wallpapers": [
+{
+"id": "ocean_1",
 "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/1_.png",
 "tags": [
 "blue",
 "calm",
-"beauty",
+"ocean",
 "sea",
 "water"
 ]
 },
 {
-"id": "beauty_2",
+"id": "ocean_2",
 "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/2_.png",
 "tags": [
 "blue",
 "calm",
-"beauty",
+"ocean",
 "sea",
 "water"
 ]
 },
 {
-"id": "beauty_3",
+"id": "ocean_3",
 "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/3_.png",
 "tags": [
 "blue",
 "calm",
-"beauty",
+"ocean",
 "sea",
 "water"
 ]
