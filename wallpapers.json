@@ -20,7 +20,7 @@
       "wallpapers": [
         {
           "id": "animals_1",
-          "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/animals/1_.png",
+          "imageUrl": "https://images7.alphacoders.com/135/thumb-1920-1352043.png",
           "tags": ["animals", "cute", "furry", "kawaii", "pets"]
         }
       ]
@@ -43,7 +43,7 @@
         {
           "id": "kawaii_1",
           "imageUrl": "https://raw.githubusercontent.com/abdelhakimelmoumen/CuteWall-API/refs/heads/main/walls/kawaii/1_.png",
-          "tags": ["anime", "cartoon", "chibi", "cute", "kawaii"]
+          "tags": ["Anime", "Cinnamoroll", "sanrio", "kawaii"]
         }
       ]
     },
